@@ -1,5 +1,6 @@
 # dmx-send
 This is a simple python script that will send DMX over ArtNet as a CLI
+
 This script runs in Python 3
 
 # Command line options
